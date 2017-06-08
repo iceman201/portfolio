@@ -1,33 +1,24 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Liguo Jiao
+subtitle: project portfolio
+email: liguo@jiao.co.nz
+description: I’m an iOS developer with a passion for providing creative solutions to complex problem sets.
+url: "https://portfolio.jiao.co.nz/" # the base hostname & protocol for your site
+author: Liguo Jiao
+city: Wellington
+state: Wellington
+country: New Zealand
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: posts
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+facebook_url: https://www.facebook.com/leandrojiew
+github_url: https://github.com/iceman201
+gitlab_url: https://gitlab.com/iceman201
+linkedin_url: https://www.linkedin.com/in/liguojiaouc/
+twitter_url: https://twitter.com/jiaoliguo
 
 # build settings
 markdown: kramdown
