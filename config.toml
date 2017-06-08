@@ -1,4 +1,4 @@
-baseurl = "https://portfolio.jiao.co.nz"
+baseurl = "https://portfolio.jiao.co.nz/"
 title = "Project Portfolio"
 publishDir = "docs"
 themeDir = "themes"
