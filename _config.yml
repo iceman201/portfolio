@@ -4,7 +4,7 @@ subtitle: project portfolio
 email: liguo@jiao.co.nz
 description: I’m an iOS developer with a passion for providing creative solutions to complex problem sets. <br/>
 baseurl: ""
-url: "" # the base hostname & protocol for your site
+url: "https://portfolio.jiao.co.nz" # the base hostname & protocol for your site
 author: Liguo Jiao
 city: Wellington
 state: Wellington
