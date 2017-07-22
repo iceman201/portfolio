@@ -24,9 +24,10 @@ linkedin_url: https://www.linkedin.com/in/liguojiaouc/
 twitter_url: https://twitter.com/jiaoliguo
 
 # build settings
+pygments: true
 markdown: kramdown
 kramdown:
-  input: GFM
+  input:            GFM
   auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
