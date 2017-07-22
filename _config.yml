@@ -1,13 +1,14 @@
 # site settings
 title: Liguo Jiao
-subtitle: project portfolio
+subtitle: Project Portfolio
 email: liguo@jiao.co.nz
 description: I’m an iOS developer with a passion for providing creative solutions to complex problem sets. <br/>
+logo: 'assets/images/LOGO2017.png'
 baseurl: ""
 url: "https://portfolio.jiao.co.nz"
 author: Liguo Jiao
-city: Wellington
-state: Wellington
+city: Auckland
+state: Auckland
 country: New Zealand
 
 # homepage tiles
@@ -23,6 +24,13 @@ twitter_url: https://twitter.com/jiaoliguo
 
 # build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
 
 sass:
   style: compressed
